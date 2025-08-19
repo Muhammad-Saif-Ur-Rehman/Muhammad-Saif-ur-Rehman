@@ -1,5 +1,7 @@
 # Hi there, I'm Muhammad Saif-Ur-Rehman 👋
 
+![Banner](https://github.com/Muhammad-Saif-Ur-Rehman/Muhammad-Saif-ur-Rehman/blob/main/Saif%20github%20banner.png)
+
 **AI Engineer**  
 *Designing intelligent systems to shape tomorrow’s technology.*
 
@@ -66,9 +68,3 @@ My first end-to-end AI project, where I designed and deployed a Retrieval-Augmen
 ## 🎮 Fun Fact
 
 When I'm not coding, you might find me playing video games!
-
----
-
-<!--
-Profile image/banner placeholder. You can add one here later!
--->
