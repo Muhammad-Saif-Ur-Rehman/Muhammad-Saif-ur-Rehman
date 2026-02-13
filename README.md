@@ -28,7 +28,7 @@ I'm an AI Engineer passionate about building and deploying intelligent solutions
   DVC, Git LFS, Git, GitHub
 
 - **Generative AI & LLMs:**  
-  Fine-tuning open source models, HuggingFace, LangChain, LangGraph, Crewai Amazon Bedrock, Amazon SageMaker, OpenAI SDK
+  Fine-tuning open source models, HuggingFace, LangChain, LangGraph, Crewai, Amazon Bedrock, Amazon SageMaker, OpenAI SDK
 
 - **NLP & Computer Vision:**  
   Text preprocessing, YOLOv8 segmentation
