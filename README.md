@@ -82,18 +82,6 @@ Real-time gesture classifier from live camera input. Custom dataset pipeline and
 
 ---
 
-### 🚧 Voice AI Agent *(In Progress)*
-Intelligent voice agent for automated business interactions using Vapi and Retell AI with custom LLM backend.  
-**Stack:** Vapi · Retell AI · Python · Custom LLM
-
----
-
-### 🚧 n8n AI Workflow Automations *(In Progress)*
-Production n8n workflows integrating AI — lead nurturing, document processing, CRM-triggered pipelines.  
-**Stack:** n8n · OpenAI API · Webhooks · CRM Integration
-
----
-
 ## 🏆 Certifications
 
 | Certificate | Issuer |
